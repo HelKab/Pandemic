@@ -9,6 +9,3 @@ $./launch.sh
 
 ### Author
 **Hélène Kabbech** - Bioinformatics master student (University of Paris Diderot)
-
-### License
-January 2018
